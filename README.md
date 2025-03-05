@@ -11,7 +11,7 @@ A Passionate Full Stack Developer & Backend Engineer
 ### 🧑‍💻 Tech Stack
 
 #### 🌐 Programming Languages
-- CPP
+- [![cpp](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 - Java
 - C
 - HTML/CSS
