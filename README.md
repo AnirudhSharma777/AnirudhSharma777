@@ -15,11 +15,11 @@ A Passionate Full Stack Developer & Backend Engineer
 
 
 #### 📚 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,spring,hibernate,bootstrap,tailwind,angular&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,spring,hibernate,bootstrap,tailwind,angular&theme=ligh)](https://skillicons.dev)
 
 
 #### 🔧 Developer Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclips,jerkins,postman,docker,kubernetes,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,jenkins,postman,docker,kubernetes,aws&theme=light)](https://skillicons.dev)
 
 
 #### 🛢️ Databases
