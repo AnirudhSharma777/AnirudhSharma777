@@ -11,7 +11,7 @@ A Passionate Full Stack Developer & Backend Engineer
 ### 🧑‍💻 Tech Stack
 
 #### 🌐 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,c,html,css,tailwind,javascript,typescript,sql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,c,html,css,tailwind,javascript,typescript,sql&perline=1)](https://skillicons.dev)
 
 
 #### 📚 Frameworks & Libraries
