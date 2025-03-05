@@ -5,15 +5,13 @@ A Passionate Full Stack Developer & Backend Engineer
 ---
 
 ### 🚀 I'm currently working on
-- **VideoCall Application** — A project to understand video conferencing technologies
-- **Stayease** — A hotel booking service with authentication, authorization, and role-based access control
-
+- **Book social Network**
 ---
 
 ### 🧑‍💻 Tech Stack
 
 #### 🌐 Programming Languages
-- Python
+- CPP
 - Java
 - C
 - HTML/CSS
@@ -68,9 +66,9 @@ A Passionate Full Stack Developer & Backend Engineer
 ---
 
 ### 📫 How to reach me
-- **Email**: anirudh@example.com
-- **LinkedIn**: [Anirudh's LinkedIn](#)
-- **GitHub**: [Anirudh's GitHub](#)
+- **Email**: anirudhdhsharma857000@example.com
+- **LinkedIn**: [Anirudh's LinkedIn](https://www.linkedin.com/in/anirudh-sharma-371046179/)
+- **GitHub**: [Anirudh's GitHub](https://github.com/AnirudhSharma777)
 
 ---
 
