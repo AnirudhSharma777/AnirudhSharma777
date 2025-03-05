@@ -15,7 +15,7 @@ A Passionate Full Stack Developer & Backend Engineer
 
 
 #### 📚 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,spring,hibernate,bootstrap,tailwind,angular&theme=ligh)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,spring,hibernate,bootstrap,tailwind,angular&theme=light)](https://skillicons.dev)
 
 
 #### 🔧 Developer Tools
@@ -23,13 +23,11 @@ A Passionate Full Stack Developer & Backend Engineer
 
 
 #### 🛢️ Databases
-- MongoDB
-- MySQL
-- PostgreSQL
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light)](https://skillicons.dev)
 
 #### 🧪 Testing
 - JUnit
-- Mockito
+- Mockit
 
 #### 🏗️ Concepts
 - OOPS (Object-Oriented Programming)
