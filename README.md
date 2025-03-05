@@ -15,7 +15,7 @@ A Passionate Full Stack Developer & Backend Engineer
 
 
 #### 📚 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,node,express,spring,hibernate,bootstrap,tailwind,angular&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,spring,hibernate,bootstrap,tailwind,angular&theme=dark)](https://skillicons.dev)
 
 
 #### 🔧 Developer Tools
