@@ -11,27 +11,16 @@ A Passionate Full Stack Developer & Backend Engineer
 ### 🧑‍💻 Tech Stack
 
 #### 🌐 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,c,html,css,tailwind,javascript,typescript,sql&perline=9&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,c,html,css,javascript,typescript,sql&perline=9&theme=light)](https://skillicons.dev)
 
 
 #### 📚 Frameworks & Libraries
-- ReactJs
-- NodeJs
-- ExpressJs
-- Spring Boot
-- Hibernate
-- Bootstrap
-- Angular (basics)
+[![My Skills](https://skillicons.dev/icons?i=react,node,express,spring,hibernate,bootstrap,tailwind,angular&theme=light)](https://skillicons.dev)
+
 
 #### 🔧 Developer Tools
-- VS Code
-- Eclipse
-- Google Cloud Platform
-- Android Studio
-- Jenkins
-- Postman
-- Docker
-- Kubernetes
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclips,jerkins,postman,docker,kubernetes,aws&theme=light)](https://skillicons.dev)
+
 
 #### 🛢️ Databases
 - MongoDB
