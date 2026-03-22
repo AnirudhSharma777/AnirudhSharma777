@@ -4,10 +4,6 @@ A Passionate Full Stack Developer & Backend Engineer
 
 ---
 
-### 🚀 I'm currently working on
-- **Banking Microservices Architecture**
----
-
 ### 🧑‍💻 Tech Stack
 
 #### 🌐 Programming Languages
